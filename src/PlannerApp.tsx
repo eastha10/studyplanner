@@ -437,7 +437,7 @@ export function PlannerApp() {
               </div>
             )}
           </div>
-          <span className="avatar">민</span>
+          <span className="avatar">채</span>
         </header>
         <div className="content">
           <PlannerRoutes
